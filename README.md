@@ -36,9 +36,13 @@ The dashboard is built for banking executives, financial analysts, and relations
 **Data**: Banking.EDA.ipynb
 
 It focuses on performing Exploratory Data Analysis (EDA) using Python to uncover patterns, trends, anomalies, and insights within a dataset. The project leverages popular Python libraries such as 
+
 *Pandas
-*Matplotlib.pyplot
+
+*Matplotlib
+
 *Seaborn
+
 *Numpy
 to analyze and visualize data.
 
